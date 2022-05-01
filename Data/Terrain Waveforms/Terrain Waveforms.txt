@@ -2,7 +2,7 @@ Input voltage represents a terrain.
 
 The frequency of the functions was: 0.2Hz, 0.5Hz, 1.2Hz
 
-The damping was set using a resistor R=2.5k, R=15k
+The damping was set using resistors R=2.5k, R=15k
 
 Square wave: 4Vpp, 2V offset
 
