@@ -2,5 +2,7 @@ Input voltage represents a terrain
 
 Waveform: Sine, 5Vpp, NO offset
 
+The damping was set using resistors R=2.5k, R=15k
+
 The frequency was varied from 0.1Hz (01) to 2.5Hz (25) in increments of 0.1Hz
 
