@@ -1,0 +1,13 @@
+Input voltage represents a terrain.
+
+The frequency of the functions was: 0.2Hz, 0.5Hz, 1.2Hz
+
+The damping was set using a resistor R=2.5k, R=15k
+
+Square wave: 4Vpp, 2V offset
+
+Triangle wave: 4Vpp, 2V offset
+
+Sine wave: 5Vpp, NO offset
+
+Halve rectified sine wave: 5Vpp, 1V offset

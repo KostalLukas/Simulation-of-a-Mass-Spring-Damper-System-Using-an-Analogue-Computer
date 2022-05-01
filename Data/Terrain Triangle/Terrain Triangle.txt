@@ -1,0 +1,8 @@
+Input voltage represents a terrain
+
+This measurement was done to see the effects of low and high damping on a triangle terrain
+
+Triangular waveform: 4Vpp, 2V offset, 0.2Hz
+
+LOW damping: R=4.6k, R=27.6k
+HIGH damping: R=1k, R=6k
