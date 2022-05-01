@@ -1,0 +1,6 @@
+Input voltage represents a force
+
+Waveform: Sine, 5Vpp, NO offset
+
+The frequency was varied from 0.1Hz (01) to 2.4Hz (24) in increments of 0.1Hz
+

@@ -1,0 +1,9 @@
+Input voltage represents a terrain
+
+Waveform: Square, 0.2Hz, 4Vpp, 2V offset
+
+The damping was varied from LOW (02) to High (13) in increments of 1k
+
+LOW damping: R=14k
+HIGH damping: R=3k
+

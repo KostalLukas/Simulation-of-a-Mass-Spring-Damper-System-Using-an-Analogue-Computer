@@ -1,0 +1,13 @@
+Input voltage represents a driving force
+
+The frequency of the functions was: 0.1Hz, 0.5Hz, 1.2Hz
+
+The damping was set using a resistor R=9k
+
+Square wave: 4Vpp, 2V offset
+
+Triangle wave: 4Vpp, 2V offset
+
+Sine wave: 4Vpp, 2V offset
+
+Halve rectified sine wave: 5Vpp, NO offset
